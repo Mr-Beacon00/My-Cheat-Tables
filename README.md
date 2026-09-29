@@ -1,9 +1,12 @@
 # My-Cheat-Tables
 My random cheat table will be post here.
 
+
 About BGM table:
 Change BGM that loaded into slots, or disable BGM.
 You can also play Walkman music anywhere without the item equipped.
+
+
 
 About Player ID table:
 To use script, goto Table -> Show Cheat Table Lua Script
