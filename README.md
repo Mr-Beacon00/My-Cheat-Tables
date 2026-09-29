@@ -1,19 +1,17 @@
 # My-Cheat-Tables
-My random cheat table will be post here.
+My random cheat table will be posted here.
 
+## About BGM Table
 
-About BGM table:
-Change BGM that loaded into slots, or disable BGM.
-You can also play Walkman music anywhere without the item equipped.
+- Change the BGM that is loaded into slots, or disable BGM.
+- You can also play Walkman music anywhere without the item equipped.
 
+## About Player ID Table
 
+To use the script, go to **Table -> Show Cheat Table Lua Script** or just use `Ctrl+Alt+L`.
 
-About Player ID table:
-To use script, goto Table -> Show Cheat Table Lua Script
-or just use Ctrl+Alt+L
+Click **Execute script** to print information.
 
-click Execute script to print information
-
-local MODE = 1 means print information from Comrades screen
-change to 2 can print information from heroes screen
-change to 3 can print player information in current room
+- `local MODE = 1` — Print information from the Comrades screen.
+- Change to `2` — Print information from the heroes screen.
+- Change to `3` — Print player information in the current room.
