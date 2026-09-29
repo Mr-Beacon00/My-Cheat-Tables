@@ -1,0 +1,251 @@
+001 Stun Rod
+002 Mk.22 Mod.D (Hush Puppy) Rank 1
+003 Mk.22 Mod.D (Hush Puppy) Rank 2
+004 Mk.22 Mod.D (Hush Puppy) Rank 3
+005 Mk.22 Mod.D (Hush Puppy) Rank 4
+006 Mk.22 Mod.D (Hush Puppy) Rank 5
+007 EZ GUN (Life Recovery) Rank 2
+008 EZ GUN (Life Recovery) Rank 3
+009 EZ GUN (Life Recovery) Rank 4
+010 EZ GUN (Life Recovery) Rank 5
+011 EZ GUN (Psyche Recovery) Rank 2
+012 EZ GUN (Psyche Recovery) Rank 3
+013 EZ GUN (Psyche Recovery) Rank 4
+014 EZ GUN (Psyche Recovery) Rank 5
+015 M1911A1 Rank 1
+016 M1911A1 Rank 2
+017 M1911A1 Custom Rank 3
+018 M1911A1 Custom Rank 4
+019 M1911A1 Custom Rank 5
+020 PM Rank 2
+021 PB/6P9 Rank 3
+022 PB/6P9 Rank 4
+023 M19 Rank 3
+024 M19 Rank 4
+025 M19 Rank 5
+026 Kampfpistole (Combat Pistol) Rank 4
+027 Kampfpistole (Combat Pistol) Rank 5
+028 C96 Rank 3
+029 C96 Rank 4
+030 C96 Rank 5
+031 Support Supply Marker Rank 3
+032 Support Supply Marker Rank 4
+033 Support Supply Marker Rank 5
+034 Support Strike Marker Rank 3
+035 Support Strike Marker Rank 4
+036 Support Strike Marker Rank 5
+037 Banana Rank 1
+038 Twin Barrel Shotgun Rank 1
+039 Twin Barrel Shotgun Rank 2
+040 Twin Barrel Shotgun Rank 3
+041 Twin Barrel Shotgun Rank 4
+042 Twin Barrel Shotgun Rank 5
+043 Twin Barrel Shotgun (Rubber Slug) Rank 3
+044 Twin Barrel Shotgun (Rubber Slug) Rank 4
+045 Twin Barrel Shotgun (Rubber Slug) Rank 5
+046 M37 Rank 2
+047 M37 Rank 3
+048 M37 Rank 4
+049 M37 Rank 5
+050 M37 (Long Barrel) Rank 4
+051 M37 (Long Barrel) Rank 5
+052 SPAS-12 Rank 3
+053 SPAS-12 Rank 4
+054 SPAS-12 Rank 5
+055 CAW Rank 5
+056 M16A1 Rank 1
+057 M16A1 Rank 2
+058 M16A1 Rank 3
+059 M16A1 (w/ Shotgun) Rank4
+060 M16A1 (w/ Shotgun) Rank5
+061 Patriot
+062 M16A1 (w/ Grenade Launcher) Rank 4
+063 M16A1 (w/ Grenade Launcher) Rank 5
+064 M16A1 (w/ Smoke Grenade Launcher) Rank 4
+065 M16A1 (w/ Smoke Grenade Launcher) Rank 5
+066 M653 Rank 3
+067 M653 Rank 4
+068 M653 (w/ Grenade Launcher) Rank 5
+069 M653 (w/ Shotgun) Rank 5
+070 M653 (w/ Smoke Grenade Launcher) Rank 5
+071 RK47 Rank 1072 RK47 (w/ Grenade Launcher) Rank 2073 ADM63 Rank 3
+074 ADM65 Rank 4
+075 ADM65 Rank 5
+076 RK47 (w/ Smoke Grenade Launcher) Rank 2
+077 RPK Rank 4
+078 RPK Rank 5
+079 FAL Rank 2
+080 FAL Rank 3
+081 FAL Rank 4
+082 SUG Rank 5
+083 G11 Rank 5
+084 Tanegashima Musket Rank 5
+085 M10 Rank 1
+086 M10 (w/ Suppressor) Rank 2
+087 M10 (w/ Barrel Jacket) Rank 3
+088 UZ61 Rank 2
+089 UZ61 Rank 3
+090 UZ61 Rank 4
+091 MP5A2 Rank 3
+092 MP5A2 Rank 4
+093 MP5SD2 Rank 5
+094 M1928A1 Rank 1
+095 M1928A1 Rank 2
+096 M1928A1 Rank 3
+097 M1C Rank 1
+098 M1C Rank 2
+099 M1C (Psyche Recovery) Rank 3
+100 M1C (Psyche Recovery) Rank 4
+101 M21 Rank 3
+102 M21 Rank 4
+103 M21 Rank 5
+104 M700 Rank 3
+105 M700 (Bull Barrel) Rank 4
+106 M700 (Bull Barrel) Rank 5
+107 M700 (Life Recovery) Rank 3
+108 M700 (Life Recovery) Rank 4
+109 Mosin-Nagant Rank 1
+110 Mosin-Nagant Rank 2
+111 Mosin-Nagant Rank 3
+112 Mosin-Nagant Rank 4
+113 Mosin-Nagant Rank 5
+114 SVD Rank 2
+115 SVD Rank 3
+116 SVD (High Capacity) Rank 4
+117 SVD (Night Vision) Rank 5
+118 WA2000 Rank 3
+119 WA2000 Rank 4
+120 WA2000 Rank 5
+121 PTRD1941 Rank 4
+122 PTRD1941 Rank 5
+123 PTRS1941 Rank 5
+124 Stealth Gun Rank 2
+125 Stealth Gun Rank 3
+126 Stealth Gun Rank 4
+127 Railgun Rank 3
+128 Railgun Rank 4
+129 Railgun Rank 5
+130 Railgun Dynamo Rank 3
+131 M60 Rank 1
+132 M60 (Armor Piercing) Rank 2
+133 M60 (Short Barrel) Rank 3
+134 M60 (Short Barrel) Rank 4
+135 M63A1 Rank 3
+136 M63A1 Rank 4
+137 M63A1 Rank 5
+138 PKG Rank 1
+139 PKG Rank 2
+140 PKG Rank 3
+141 PKG Rank 4
+142 PKG Rank 5
+143 MG3 Rank 2
+144 MG3 (Armor Piercing) Rank 3
+145 MG3 (Armor Piercing) Rank 4
+146 MG3 (Armor Piercing) Rank 5
+147 M134 Gatling Gun Rank 5
+148 EM Wave Gun Rank 5
+149 LAW Rank 1
+150 LAW Rank 2
+151 LAW Rank 3
+152 LAW Rank 4
+153 M202A1 Rank 3
+154 M202A1 Rank 4
+155 M202A1 Rank 5
+156 RPG2 Rank 1
+157 RPG7 Rank 2
+158 RPG7 Rank 3
+159 RPG7 Rank 4
+160 FIM-43 Rank 3
+161 XFIM-92A Rank 4
+162 XFIM-92A Rank 5
+163 Carl Gustav M2 Rank 2
+164 Carl Gustav M2 Rank 3
+165 Carl Gustav M2 Rank 4
+166 Carl Gustav M2 Rank 5
+167 Carl Gustav M2 (Multi Purpose) Rank 3
+168 Carl Gustav M2 (Multi Purpose) Rank 4
+169 Carl Gustav M2 (Multi Purpose) Rank 5
+170 Carl Gustav M2 (Fulton Recovery) Rank 3
+171 Carl Gustav M2 (Fulton Recovery) Rank 4
+172 Carl Gustav M2 (Fulton Recovery) Rank 5
+173 M47 Rank 5
+174 Human Slingshot Post Rank 1
+175 Human Slingshot Post Rank 1
+176 Human Slingshot Post Rank 2
+177 Human Slingshot Post Rank 3
+178 Grenade Rank 1
+179 Grenade Rank 2
+180 Grenade Rank 3
+181 Grenade Rank 4
+182 Grenade Rank 5
+183 Stun Grenade Rank 1
+184 Stun Grenade Rank 2
+185 Stun Grenade Rank 3
+186 Stun Grenade Rank 4
+187 Stun Grenade Rank 5
+188 Smoke Grenade Rank 1
+189 Smoke Grenade Rank 2
+190 Smoke Grenade Rank 3
+191 Smoke Grenade Rank 4
+192 Smoke Grenade Rank 5
+193 Chaff Grenade Rank 1
+194 Chaff Grenade Rank 2
+195 Chaff Grenade Rank 3
+196 Chaff Grenade Rank 4
+197 Chaff Grenade Rank 5
+198 Empty Magazine Rank 1
+199 Smoke Grenade (Red) Rank 1
+200 Smoke Grenade (Blue) Rank 2
+201 Smoke Grenade (Green) Rank 3
+202 Smoke Grenade (Yellow) Rank 4
+203 Smoke Grenade (Black) Rank 5
+204 Support Supply Marker (Thrown) Rank 2
+205 Support Strike Marker (Thrown) Rank 2
+206 Electromagnetic Net Rank 2
+207 Sleep Gas Grenade Rank 1
+208 Sleep Gas Grenade Rank 2
+209 Sleep Gas Grenade Rank 3
+210 Sleep Gas Grenade Rank 4
+211 Sleep Gas Grenade Rank 5
+212 C4 Rank 1
+213 C4 Rank 2
+214 C4 Rank 3
+215 C4 Rank 4
+216 C4 Rank 5
+217 Claymore Rank 1
+218 Claymore Rank 2
+219 Claymore Rank 3
+220 Claymore Rank 4
+221 Claymore Rank 5
+222 Magazine Rank 1
+223 Magazine Rank 2
+224 Magazine Rank 3
+225 Magazine Rank 4
+226 Magazine Rank 5
+227 Solid Magazine Rank 1
+228 Liquid Magazine Rank 1
+229 Solidus Magazine Rank 1
+230 Super Magazine Rank 1
+231 Anti-tank Mine Rank 1
+232 Anti-tank Mine Rank 2
+233 Anti-tank Mine Rank 3
+234 Anti-tank Mine Rank 4
+235 Anti-tank Mine Rank 5
+236 Decoy Rank 1
+237 Decoy Rank 2
+238 Decoy Rank 3
+239 Decoy Rank 4
+240 Decoy Rank 5
+241 Aerial Mine Rank 1
+242 Aerial Mine Rank 2
+243 Aerial Mine Rank 3
+244 Aerial Mine Rank 4
+245 Aerial Mine Rank 5
+246 Fulton Sleep Gas Mine Rank 5
+247 Cookbook Rank 1
+248 Cookbook Rank 2
+249 Cookbook Rank 3
+250 Cookbook Rank 4
+251 Cookbook Rank 5
+252 Support Supply Marker (Set) Rank 1
+253 Support Strike Marker (Set) Rank 1

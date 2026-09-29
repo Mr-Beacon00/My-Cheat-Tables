@@ -1,0 +1,381 @@
+001 LETTER
+002 JIGSAW
+003 ID CARD(P)
+004 CONFDTL [EZ Gun (LR) Design Specs]
+005 CONFDTL [EZ Gun (PR) Design Specs]
+006 CONFDTL [PM  Design Specs]
+007 CONFDTL [PB/6P9 Design Specs]
+008 CONFDTL [M1911A1 Design Specs]
+009 CONFDTL [M1911A1 Custom Design Specs]
+010 CONFDTL [C96 Design Specs]
+011 CONFDTL [M19 Design Specs]
+012 CONFDTL [Kampfplstole Design Specs]
+013 CONFDTL [Support Supply Marker Design Specs]
+014 CONFDTL [Support Strike Marker Design Specs]
+015 CONFDTL [Banana Cultivation Instructions]
+016 CONFDTL [Twin Barrel Shotgun Design Specs]
+017 CONFDTL [Twin Barrel (Rubber Slug) Design Specs]
+018 CONFDTL [M37 Design Specs]
+019 CONFDTL [SPAS-12 Design Specs]
+020 CONFDTL [CAW Design Specs]
+021 CONFDTL [M16A1(STG) Design Specs]
+022 CONFDTL [M16A1(STG + laser) Design Specs]
+023 CONFDTL [Patriot Design Specs]
+024 CONFDTL [M16A1(GL) Design Specs]
+025 CONFDTL [M16A1(GL + laser) Design Specs]
+026 CONFDTL [M16A1(SGL) Design Specs]
+027 CONFDTL [M16A1(SGL + laser) Design Specs]
+028 CONFDTL [M653 Design Specs]
+029 CONFDTL [M653(GL) Design Specs]
+030 CONFDTL [M653(STG) Design Specs]
+031 CONFDTL [M653(SGL) Design Specs]
+032 CONFDTL [RK47 Design Specs]
+033 CONFDTL [RK47(GL) Design Specs]
+034 CONFDTL [ADM63 Design Specs]
+035 CONFDTL [ADM65 Design Specs]
+036 CONFDTL [RK47(SGL) Design Specs]
+037 CONFDTL [RPK Design Specs]
+038 CONFDTL [FAL Design Specs]
+039 CONFDTL [SUG Design Specs]
+040 CONFDTL [G11 Design Specs]
+041 CONFDTL [Tanegashima Musket Design Specs] *Unused
+042 CONFDTL [M10 Design Specs]
+043 CONFDTL [M10(BJ) Design Specs]
+044 CONFDTL [UZ61 Design Specs]
+045 CONFDTL [MP5A2 Design Specs]
+046 CONFDTL [MP5SD2 Design Specs]
+047 CONFDTL [M1928A1 Design Specs]
+048 CONFDTL [M1C Design Specs]
+049 CONFDTL [M1C (PR) Design Specs]
+050 CONFDTL [M21 Design Specs]
+051 CONFDTL [M700 Design Specs]
+052 CONFDTL [M700 (LR) Design Specs]
+053 CONFDTL [Mosin-Nagant Design Specs]
+054 CONFDTL [SVD Design Specs]
+055 CONFDTL [SVD(NV) Design Specs]
+056 CONFDTL [WA2000 Design Specs]
+057 CONFDTL [PTRD1941 Design Specs]
+058 CONFDTL [PTRS1941 Design Specs]
+059 CONFDTL [Stealth Gun Design Specs]
+060 CONFDTL [Railgun Design Specs]
+061 CONFDTL [M60 Design Specs]
+062 CONFDTL [M60 (Armor Piercing) Design Specs]
+063 CONFDTL [M63A1 Design Specs]
+064 CONFDTL [PKM Design Specs]
+065 CONFDTL [MG3 Design Specs]
+066 CONFDTL [MG3 (Armor Piercing) Design Specs]
+067 CONFDTL [M134 Design Specs]
+068 CONFDTL [EM Wave Gun]
+069 CONFDTL [LAW Design Specs] *Unused
+070 CONFDTL [M202A1 Design Specs]
+071 CONFDTL [M202A1 Design Specs]
+072 CONFDTL [RPG-2 Design Specs]
+073 CONFDTL [RPG-7 Design Specs]
+074 CONFDTL [FIM-43 Design Specs]
+075 CONFDTL [XFIM-92A Design Specs]
+076 CONFDTL [Carl Gustav M2 Design Specs]
+077 CONFDTL [Carl Gustav (MP) Design Specs]
+078 CONFDTL [Carl Gustav (Fulton) Design Specs]
+079 CONFDTL [M47 Design Specs]
+080 CONFDTL [Human Slingshot Design Specs] *Unused
+081 CONFDTL [Stun Grenade Design Specs]
+082 CONFDTL [Smoke Grenade Design Specs]
+083 CONFDTL [Chaff Grenade Design Specs]
+084 CONFDTL [Smoke Grenade (Colored) Design Specs]
+085 CONFDTL [Support Supply Marker (Thrown) Design Specs]
+086 CONFDTL [Support Strike Marker (Thrown) Design Specs]
+087 CONFDTL [Electromagnetic Net Design Specs]
+088 CONFDTL [Sleep Gas Grenade Design Specs]
+089 CONFDTL [C4 Design Specs]
+090 CONFDTL [Claymore Design Specs]
+091 CONFDTL [Magazine Layout]
+092 CONFDTL [Hobby Magazine Layout]
+093 CONFDTL [Hobby Magazine Layout]
+094 CONFDTL [Hobby Magazine Layout]
+095 CONFDTL [Hobby Magazine Layout]
+096 CONFDTL [Anti-tank Mine Design Specs]
+097 CONFDTL [Decoy Design Specs]
+098 CONFDTL [Aerial Mine Design Specs]
+099 CONFDTL [Fulton Sleep Gas Mine Design Specs]
+100 CONFDTL [Cookbook Research Notes]
+101 CONFDTL [Support Supply Mk. (Set) Blueprints]
+102 CONFDTL [Support Strike Mk. (Set) Blueprints]
+103 CONFDTL [Curry Recipe]
+104 CONFDTL [Stealth Mat Design Specs]
+105 CONFDTL [Stealth Camouflage Design Specs]
+106 CONFDTL [Love Box Design Specs] *Unused
+107 CONFDTL [Cardboard Box Tank Design Specs]
+108 CONFDTL [Night Vision Goggles Design Specs]
+109 CONFDTL [Ballistic Shield Design Specs]
+110 CONFDTL [Ballistic Shield (Color) Design Specs]
+111 CONFDTL [Infinity Bandana Design Specs]
+112 CONFDTL [Soliton Radar Design Specs]
+113 CONFDTL [Sonic Eye Design Specs]
+114 CONFDTL [Canned Soft Drink Recipe]
+115 CONFDTL [Tortilla Chips Recipe]
+116 CONFDTL [Box Bomb Design Specs]
+117 CONFDTL [Stun Box Design Specs]
+118 CONFDTL [Smoke Box Design Specs]
+119 CONFDTL [- --- -] *Unused
+120 CONFDTL [Assassin's Straw Box Design Specs] *Unused
+121 CONFDTL [Rescue Box Design Specs]
+122 CONFDTL [Rare-meat Ration Design Specs] *Unused
+123 CONFDTL [Well-done Ration Design Specs] *Unused
+124 CONFDTL [Burnt Ration Design Specs] *Unused
+125 CONFDTL [Cologne Design Specs]
+126 Rathalos Wing
+127 Tigrex Fang
+128 Gear Rex Mucous
+129 Gear Rex Concentrate
+130 Gear Rex Super Extract
+131 Jungle Fatigues
+132 Leaf
+133 Tiger Stripe
+134 Choco Chip
+135 Desert Auscam
+136 Squares
+137 Splitter
+138 Snake
+139 Neo Moss
+140 Stench
+141 Tigrex
+142 Rathalos
+143 Gear REX
+144 Sneaking Suit
+145 Battle Dress
+146 Battle Dress (with helmet)
+147 Naked
+148 Naked (Leaf)
+149 Naked (Tiger Stripe)
+150 Naked (Choco Chip)
+151 Naked (Desert Auscam)
+152 Naked (Squares)
+153 Naked (Splitter)
+154 Naked (Snake)
+155 Tuxedo
+156 Miller
+157 Amanda
+158 Swim Trunks
+159 Bikini Top
+160 T-shirt
+161 UT (N425A)
+162 UT (N425B)
+163 UT (N425C)
+164 UT (N425D Navy Blue)
+165 UT (N425E White)
+166 UT (N425E Black)
+167 UT (N425F)
+168 UT (N425G Gray)
+169 UT (N425H White)
+170 UT (N425H Red)
+171 UT (N425J)
+172 UT (N425L)
+173 UT (UT Logo)
+174 UT (N425D Gray)
+175 UT (N425G White)
+176 DORITOS *JP Only
+177 PEPSI NEX *JP Only
+178 MTN DEW *JP Only
+179 Hori
+180 NONE
+181 WALKMAN
+182 NONE
+183 LAWSON *JP Only
+184 AXE *JP Only
+185 Fox
+186 Black *DLC
+187 Khaki *DLC
+188 Navy Blue *DLC
+189 White *DLC
+190 Red *DLC
+191 Yellow *DLC
+192 Pink *DLC
+193 Green *DLC
+194 Water *DLC
+195 Tree Brak *DLC
+196 DPM *DLC
+197 Comrade *DLC
+198 Guns & Jungle *DLC
+199 Naked (Black) *DLC
+200 Naked (Khaki) *DLC
+201 Naked (Navy Blue) *DLC
+202 Naked (White) *DLC
+203 Naked (Red) *DLC
+204 Naked (Yellow) *DLC
+205 Naked (Pink) *DLC
+206 Naked (Green) *DLC
+207 Naked (Water) *DLC
+208 Naked (Tree Brak) *DLC
+209 Naked (DPM) *DLC
+210 Russian Commando
+211 Russian Soldier
+212 Scout
+213 Guard
+214 Commando
+215 Male P.O.W
+216 Patrolman
+217 Female P.O.W
+218 Mechanic
+219 Escort Soldier
+220 Ration Rank 1
+221 Ration Rank 2
+222 Ration Rank 3
+223 Ration Rank 4
+224 Ration Rank 5
+225 Rare Ration Rank 1
+226 Rare Ration Rank 2
+227 Rare Ration Rank 3
+228 Rare Ration Rank 4
+229 Rare Ration Rank 5
+230 Well-done Ration Rank 1
+231 Well-done Ration Rank 2
+232 Well-done Ration Rank 3
+233 Well-done Ration Rank 4
+234 Well-done Ration Rank 5
+235 Burnt Ration Rank 1
+236 Burnt Ration Rank 2
+237 Burnt Ration Rank 3
+238 Burnt Ration Rank 4
+239 Burnt Ration Rank 5
+240 Spicy Curry Rank 1
+241 Spicy Curry Rank 2
+242 Great Curry Rank 3
+243 Great Curry Rank 4
+244 Future Curry Rank 5
+245 Tortilla Chips
+246 Mate Tea Rank 1
+247 Mate Tea Rank 2
+248 Mate Tea Rank 3
+249 Mate Tea Rank 4
+250 Mate Tea Rank 5
+251 Lime Soda Rank 1
+252 Zero-calorie Soda Rank 2
+253 Men's Cologne Rank 1
+254 Fulton Recovery System Rank 1
+255 Fulton Recovery System Rank 2
+256 Fulton Recovery System Rank 3
+257 Fulton Recovery System Rank 4
+258 Fulton Recovery System Rank 5
+259 Analyzer Rank 1
+260 Analyzer Rank 2
+261 Analyzer Rank 3
+262 Analyzer Rank 4
+263 Analyzer Rank 5
+264 Ballistic Shield Rank 1
+265 Ballistic Shield Rank 2
+266 Ballistic Shield Rank 3
+267 Ballistic Shield Rank 4
+268 Ballistic Shield Rank 5
+269 Ballistic Shield (Red) Rank 1
+270 Ballistic Shield (Blue) Rank 2
+271 Ballistic Shield (Green) Rank 3
+272 Ballistic Shield (Yellow) Rank 4
+273 Ballistic Shield (Black) Rank 5
+274 Night Vision Goggles Rank 1
+275 Night Vision Goggles Rank 2
+276 Night Vision Goggles Rank 3
+277 Night Vision Goggles Rank 4
+278 Night Vision Goggles Rank 5
+279 Sonic Eye Rank 1
+280 Sonic Eye Rank 2
+281 Sonic Eye Rank 3
+282 Sonic Eye Rank 4
+283 Sonic Eye Rank 5
+284 Love Box Rank 1
+285 Love Box Rank 2
+286 Love Box Rank 3
+287 Love Box Rank 4
+288 Love Box Rank 5
+289 Cardboard Box Tank Rank 1
+290 Cardboard Box Tank Rank 2
+291 Cardboard Box Tank Rank 3
+292 Cardboard Box Tank Rank 4
+293 Cardboard Box Tank Rank 5
+294 Cardboard Box Tank (Stun Cannon) Rank 2
+295 Cardboard Box Tank (Stun Cannon) Rank 3
+296 Cardboard Box Tank (Stun Cannon) Rank 4
+297 Cardboard Box Tank (Stun Cannon) Rank 5
+298 Cardboard Box Tank (Smoke Shell) Rank 2
+299 Cardboard Box Tank (Smoke Shell) Rank 3
+300 Cardboard Box Tank (Smoke Shell) Rank 4
+301 Cardboard Box Tank (Smoke Shell) Rank 5
+302 Box Bomb Rank 1
+303 Box Bomb Rank 2
+304 Box Bomb Rank 3
+305 Box Bomb Rank 4
+306 Box Bomb Rank 5
+307 Stun Box Rank 2
+308 Stun Box Rank 3
+309 Stun Box Rank 4
+310 Stun Box Rank 5
+311 Smoke Box Rank 2
+312 Smoke Box Rank 3
+313 Smoke Box Rank 4
+314 Smoke Box Rank 5
+315 Assassin's Straw Box Rank 1
+316 Rescue Box Rank 1
+317 Rescue Box Rank 2
+318 Rescue Box Rank 3
+319 Rescue Box Rank 4
+320 Rescue Box Rank 5
+321 Binoculars Rank 1
+322 Camera Rank 1
+323 WALKMAN (TPS-L2) Rank1
+324 WALKMAN (WM-2) Rank2
+325 WALKMAN (WM-EX88) Rank3
+326 WALKMAN (NWD-W202) Rank4
+327 ID Card (H) Rank 1
+328 Stealth Mat Rank 1
+329 Stealth Mat Rank 2
+330 Stealth Camouflage Rank 5
+331 Infinity Bandana
+332 Surround Indicator Rank 1
+333 Surround Indicator Rank 2
+334 Soliton Radar Rank 1
+335 Soliton Radar Rank 2
+336 Soliton Radar Rank 3
+337 Soliton Radar Rank 4
+338 Soliton Radar Rank 5
+339 12 Gauge Shotshell
+340 14.5x114mm
+341 19.5x76mm
+342 .32ACP
+343 .357 Magnum
+344 4.73x33mm
+345 40mm Grenade (M16)
+346 40mm Grenade (RK)
+347 .45ACP
+348 5.56x45mm
+349 7.62x39mm
+350 7.62x51mm
+351 7.62x54R
+352 7.62x63mm
+353 9x19mm
+354 9x18mm
+355 HEAT Round
+356 Psyche Recovery Round
+357 Life Recovery Round
+358 Anesthetic Round (Handgun)
+359 12G. Rubber Rounds
+360 40mm Smoke Rounds (M16)
+361 40mm Smoke Rounds (RK)
+362 Support Strike Marker (Fired)
+363 Support Supply Marker (Fired)
+364 Lead Ball
+365 Anesthetic Round (Rifle)
+366 7.62x51mm (Armor-Piercing)
+367 Railgun Ammo
+368 RPG2 Ammo
+369 RPG7 Ammo
+370 Carl Gustav Ammo
+371 Carl Gustav HEAT Ammo
+372 COMBO Ammo *Unused
+373 FIM-43 Ammo
+374 XFIM-92A Ammo
+375 M47 Ammo
+376 LAW Rocket
+377 M202 Rocket
+378 Carl Gustav Fulton Rounds
+379 5.56x45mm (Armor-Piercing)
+380 7.62x54R (Armor-Piercing)
+
