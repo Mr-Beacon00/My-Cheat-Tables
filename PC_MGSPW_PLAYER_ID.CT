@@ -100,116 +100,6 @@
       </CheatEntries>
     </CheatEntry>
   </CheatEntries>
-  <UserdefinedSymbols>
-    <SymbolEntry>
-      <Name>_InfiniteAmmo</Name>
-      <Address>7FF76B1B07B3</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>_OneHitKills</Name>
-      <Address>7FF76B293774</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>_Teleport</Name>
-      <Address>7FF76AEB1B03</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>_GetWaypointCoords</Name>
-      <Address>7FF76B374F53</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>memPointerTest</Name>
-      <Address>07550000</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob_I_RM</Name>
-      <Address>0147D8C3</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob_I_GR</Name>
-      <Address>01481790</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>stealth</Name>
-      <Address>0129A566</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob1_VRT</Name>
-      <Address>0174CA00</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob2</Name>
-      <Address>016B8D65</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob1_1HK</Name>
-      <Address>015C0484</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob1_BZ</Name>
-      <Address>016F44CB</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob1_I_RM</Name>
-      <Address>0147D8C3</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob1_I_GR</Name>
-      <Address>01481790</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob_ST1</Name>
-      <Address>015B950A</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob_ST2</Name>
-      <Address>015B96EA</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob_ST3</Name>
-      <Address>0165A6F5</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob_VRT2</Name>
-      <Address>00B2CA06</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob_fightstats</Name>
-      <Address>01B6C9F0</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>iKills</Name>
-      <Address>1AE00050</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>iCombo</Name>
-      <Address>1AE00054</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>iZandatsu</Name>
-      <Address>1AE00058</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob_1HK</Name>
-      <Address>01720484</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob_BZ</Name>
-      <Address>018544CB</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob_NoDamageStat</Name>
-      <Address>0126CA41</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob1_H</Name>
-      <Address>011D8D59</Address>
-    </SymbolEntry>
-    <SymbolEntry>
-      <Name>aob2_H</Name>
-      <Address>011D8D65</Address>
-    </SymbolEntry>
-  </UserdefinedSymbols>
   <LuaScript>local MODULE = "METAL GEAR SOLID PEACE WALKER.exe"
 local MODE = 1   -- 1 = comrade, 2 = heroes, 3 = player
 
@@ -291,11 +181,5 @@ else
     print("unknown MODE: " .. tostring(MODE))
 end
 </LuaScript>
-  <DisassemblerComments>
-    <DisassemblerComment>
-      <Address>"METAL GEAR RISING REVENGEANCE.exe"+653C20</Address>
-      <Comment>(0)
-</Comment>
-    </DisassemblerComment>
-  </DisassemblerComments>
+
 </CheatTable>
