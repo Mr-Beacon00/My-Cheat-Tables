@@ -4,7 +4,7 @@ My random cheat table will be posted here.
 ## About BGM Table
 
 - Change the BGM that is loaded into slots, or disable BGM.
-- You can also play Walkman music anywhere without the item equipped.
+- ~~You can also play Walkman music anywhere without the item equipped.~~
 
 ## About Player ID Table
 
