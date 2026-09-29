@@ -2,617 +2,234 @@
 <CheatTable CheatEngineTableVersion="42">
   <CheatEntries>
     <CheatEntry>
-      <ID>90</ID>
-      <Description>"saved outbox 1 [whole package is 208 bytes]"</Description>
+      <ID>319</ID>
+      <Description>"loaded bgm slot"</Description>
       <LastState Value="" RealAddress="00000000"/>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
-          <ID>85</ID>
-          <Description>"webkit timestamp"</Description>
+          <ID>284</ID>
+          <Description>"slot 1 name"</Description>
+          <LastState RealAddress="7FF618EA9700"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>50</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A9700</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>303</ID>
+          <Description>"slot 1 address"</Description>
+          <LastState Value="00000285B17EB6D0" RealAddress="7FF618EA9728"/>
+          <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1108218</Address>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A9728</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>86</ID>
-          <Description>"mode"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1108220</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>87</ID>
-          <Description>"year"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>2 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1108224</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>88</ID>
-          <Description>"month"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>Byte</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1108226</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>89</ID>
-          <Description>"day"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>Byte</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1108227</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>91</ID>
-          <Description>"music"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1108228</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>92</ID>
-          <Description>"contents"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+110822C</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>94</ID>
-          <Description>"sender id"</Description>
-          <ShowAsHex>1</ShowAsHex>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+11082a4</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>99</ID>
-          <Description>"sender id"</Description>
-          <ShowAsHex>1</ShowAsHex>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+11082a8</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>95</ID>
-          <Description>"sender name"</Description>
+          <ID>302</ID>
+          <Description>"slot 2 name"</Description>
+          <LastState RealAddress="7FF618EA9738"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>String</VariableType>
-          <Length>20</Length>
+          <Length>50</Length>
           <Unicode>0</Unicode>
           <CodePage>0</CodePage>
           <ZeroTerminate>1</ZeroTerminate>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+11082b4</Address>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A9738</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>96</ID>
-          <Description>"target id"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+11082C4</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>98</ID>
-          <Description>"target id"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+11082C8</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>97</ID>
-          <Description>"target name"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>String</VariableType>
-          <Length>20</Length>
-          <Unicode>0</Unicode>
-          <CodePage>0</CodePage>
-          <ZeroTerminate>1</ZeroTerminate>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+11082d4</Address>
-        </CheatEntry>
-      </CheatEntries>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>325</ID>
-      <Description>"saved outbox 2 [whole package is 208 bytes]"</Description>
-      <LastState Value="" RealAddress="00000000"/>
-      <GroupHeader>1</GroupHeader>
-      <CheatEntries>
-        <CheatEntry>
-          <ID>326</ID>
-          <Description>"webkit timestamp"</Description>
+          <ID>301</ID>
+          <Description>"slot 2 address"</Description>
+          <LastState Value="00000285B18D96F0" RealAddress="7FF618EA9760"/>
+          <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11082E8</Address>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A9760</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>327</ID>
-          <Description>"mode"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11082F0</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>328</ID>
-          <Description>"year"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>2 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11082F4</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>329</ID>
-          <Description>"month"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>Byte</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11082F6</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>330</ID>
-          <Description>"day"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>Byte</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11082F7</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>331</ID>
-          <Description>"music"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11082F8</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>332</ID>
-          <Description>"contents"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11082FC</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>333</ID>
-          <Description>"sender id"</Description>
-          <ShowAsHex>1</ShowAsHex>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108374</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>334</ID>
-          <Description>"sender id"</Description>
-          <ShowAsHex>1</ShowAsHex>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108378</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>335</ID>
-          <Description>"sender name"</Description>
+          <ID>304</ID>
+          <Description>"slot 3 name"</Description>
+          <LastState RealAddress="7FF618EA9770"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>String</VariableType>
-          <Length>20</Length>
+          <Length>50</Length>
           <Unicode>0</Unicode>
           <CodePage>0</CodePage>
           <ZeroTerminate>1</ZeroTerminate>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108384</Address>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A9770</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>336</ID>
-          <Description>"target id"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108394</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>337</ID>
-          <Description>"target id"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108398</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>338</ID>
-          <Description>"target name"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>String</VariableType>
-          <Length>20</Length>
-          <Unicode>0</Unicode>
-          <CodePage>0</CodePage>
-          <ZeroTerminate>1</ZeroTerminate>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11083A4</Address>
-        </CheatEntry>
-      </CheatEntries>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>339</ID>
-      <Description>"saved outbox 3 [whole package is 208 bytes]"</Description>
-      <LastState Value="" RealAddress="00000000"/>
-      <GroupHeader>1</GroupHeader>
-      <CheatEntries>
-        <CheatEntry>
-          <ID>340</ID>
-          <Description>"webkit timestamp"</Description>
+          <ID>305</ID>
+          <Description>"slot 3 address"</Description>
+          <LastState Value="00000285B19CE710" RealAddress="7FF618EA9798"/>
+          <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11083B8</Address>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A9798</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>341</ID>
-          <Description>"mode"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11083C0</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>342</ID>
-          <Description>"year"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>2 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11083C4</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>343</ID>
-          <Description>"month"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>Byte</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11083C6</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>344</ID>
-          <Description>"day"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>Byte</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11083C7</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>345</ID>
-          <Description>"music"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11083C8</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>346</ID>
-          <Description>"contents"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+11083CC</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>347</ID>
-          <Description>"sender id"</Description>
-          <ShowAsHex>1</ShowAsHex>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108444</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>348</ID>
-          <Description>"sender id"</Description>
-          <ShowAsHex>1</ShowAsHex>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108448</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>349</ID>
-          <Description>"sender name"</Description>
+          <ID>306</ID>
+          <Description>"slot 4 name"</Description>
+          <LastState RealAddress="7FF618EA97A8"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>String</VariableType>
-          <Length>20</Length>
+          <Length>50</Length>
           <Unicode>0</Unicode>
           <CodePage>0</CodePage>
           <ZeroTerminate>1</ZeroTerminate>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108454</Address>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A97a8</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>350</ID>
-          <Description>"target id"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108464</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>351</ID>
-          <Description>"target id"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108468</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>352</ID>
-          <Description>"target name"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>String</VariableType>
-          <Length>20</Length>
-          <Unicode>0</Unicode>
-          <CodePage>0</CodePage>
-          <ZeroTerminate>1</ZeroTerminate>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108474</Address>
-        </CheatEntry>
-      </CheatEntries>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>353</ID>
-      <Description>"saved outbox 4 [whole package is 208 bytes]"</Description>
-      <LastState Value="" RealAddress="00000000"/>
-      <GroupHeader>1</GroupHeader>
-      <CheatEntries>
-        <CheatEntry>
-          <ID>354</ID>
-          <Description>"webkit timestamp"</Description>
+          <ID>307</ID>
+          <Description>"slot 4 address"</Description>
+          <LastState Value="00000285B1B0AF30" RealAddress="7FF618EA97D0"/>
+          <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108488</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>355</ID>
-          <Description>"mode"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108490</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>356</ID>
-          <Description>"year"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>2 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108494</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>357</ID>
-          <Description>"month"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>Byte</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108496</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>358</ID>
-          <Description>"day"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>Byte</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108497</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>359</ID>
-          <Description>"music"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108498</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>360</ID>
-          <Description>"contents"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+110849C</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>361</ID>
-          <Description>"sender id"</Description>
-          <ShowAsHex>1</ShowAsHex>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108514</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>362</ID>
-          <Description>"sender id"</Description>
-          <ShowAsHex>1</ShowAsHex>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108518</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>363</ID>
-          <Description>"sender name"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>String</VariableType>
-          <Length>20</Length>
-          <Unicode>0</Unicode>
-          <CodePage>0</CodePage>
-          <ZeroTerminate>1</ZeroTerminate>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108524</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>364</ID>
-          <Description>"target id"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108534</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>365</ID>
-          <Description>"target id"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108538</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>366</ID>
-          <Description>"target name"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>String</VariableType>
-          <Length>20</Length>
-          <Unicode>0</Unicode>
-          <CodePage>0</CodePage>
-          <ZeroTerminate>1</ZeroTerminate>
-          <Address>METAL GEAR SOLID PEACE WALKER.exe+1108544</Address>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A97d0</Address>
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
-      <ID>120</ID>
-      <Description>"storage"</Description>
-      <LastState Value="" RealAddress="00000000"/>
-      <GroupHeader>1</GroupHeader>
-      <CheatEntries>
-        <CheatEntry>
-          <ID>42</ID>
-          <Description>"[base] weapon available"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>2 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+114e354</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>123</ID>
-          <Description>"[base] weapon develop rate"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>2 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+114e358</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>122</ID>
-          <Description>"[base] weapon count"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>2 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+114e35c</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>38</ID>
-          <Description>"[base] item available"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>2 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+11508d8</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>44</ID>
-          <Description>"[base] item develop rate"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>2 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+11508dc</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>116</ID>
-          <Description>"[base] item count"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>2 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+11508e0</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>124</ID>
-          <Description>"Group 6"</Description>
-          <LastState Value="" RealAddress="00000000"/>
-          <GroupHeader>1</GroupHeader>
-          <CheatEntries>
-            <CheatEntry>
-              <ID>41</ID>
-              <Description>"cookbook rank3 count"</Description>
-              <VariableType>2 Bytes</VariableType>
-              <Address>"METAL GEAR SOLID PEACE WALKER.exe"+114FE98</Address>
-            </CheatEntry>
-            <CheatEntry>
-              <ID>40</ID>
-              <Description>"cookbook rank4 count"</Description>
-              <ShowAsSigned>0</ShowAsSigned>
-              <VariableType>2 Bytes</VariableType>
-              <Address>"METAL GEAR SOLID PEACE WALKER.exe"+114FE98+1c</Address>
-            </CheatEntry>
-            <CheatEntry>
-              <ID>35</ID>
-              <Description>"ration rank5 count"</Description>
-              <VariableType>2 Bytes</VariableType>
-              <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1151DE0</Address>
-            </CheatEntry>
-            <CheatEntry>
-              <ID>36</ID>
-              <Description>"fulton sys rank4 count"</Description>
-              <ShowAsSigned>0</ShowAsSigned>
-              <VariableType>2 Bytes</VariableType>
-              <Address>"METAL GEAR SOLID PEACE WALKER.exe"+11520f8</Address>
-            </CheatEntry>
-            <CheatEntry>
-              <ID>37</ID>
-              <Description>"fulton sys rank5 count"</Description>
-              <VariableType>2 Bytes</VariableType>
-              <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1152110</Address>
-            </CheatEntry>
-            <CheatEntry>
-              <ID>34</ID>
-              <Description>"Sleep Gas Grenade Rank 1"</Description>
-              <ShowAsSigned>0</ShowAsSigned>
-              <VariableType>4 Bytes</VariableType>
-              <Address>"METAL GEAR SOLID PEACE WALKER.exe"+114e35c+16a4</Address>
-            </CheatEntry>
-            <CheatEntry>
-              <ID>84</ID>
-              <Description>"Fulton Sleep Gas Mine Rank 5"</Description>
-              <ShowAsSigned>0</ShowAsSigned>
-              <VariableType>4 Bytes</VariableType>
-              <Address>"METAL GEAR SOLID PEACE WALKER.exe"+114e35c+1ae8</Address>
-            </CheatEntry>
-            <CheatEntry>
-              <ID>47</ID>
-              <Description>"Future Curry Rank 5"</Description>
-              <ShowAsSigned>0</ShowAsSigned>
-              <VariableType>4 Bytes</VariableType>
-              <Address>"METAL GEAR SOLID PEACE WALKER.exe"+11508e0+0x16e0</Address>
-            </CheatEntry>
-          </CheatEntries>
-        </CheatEntry>
-      </CheatEntries>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>100</ID>
-      <Description>"sender id?"</Description>
-      <ShowAsHex>1</ShowAsHex>
-      <VariableType>Array of byte</VariableType>
-      <ByteLength>8</ByteLength>
-      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1125FC0</Address>
-      <CheatEntries>
-        <CheatEntry>
-          <ID>110</ID>
-          <Description>"sender id?"</Description>
-          <ShowAsHex>1</ShowAsHex>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1125FC0</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>111</ID>
-          <Description>"sender id?"</Description>
-          <ShowAsHex>1</ShowAsHex>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>4 Bytes</VariableType>
-          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1125FC4</Address>
-        </CheatEntry>
-      </CheatEntries>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>101</ID>
-      <Description>"sender id?"</Description>
-      <ShowAsHex>1</ShowAsHex>
-      <VariableType>Array of byte</VariableType>
-      <ByteLength>8</ByteLength>
-      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1142A18</Address>
+      <ID>300</ID>
+      <Description>"bgm slot choose [0: no music]"</Description>
+      <LastState Value="0" RealAddress="7FF618EA97E0"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A97E0</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>102</ID>
-      <Description>"sender id?"</Description>
-      <ShowAsHex>1</ShowAsHex>
-      <VariableType>Array of byte</VariableType>
-      <ByteLength>8</ByteLength>
-      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+115E6A8</Address>
+      <Description>"bgm set [1: start play, 2: disable until reload 5: walkman music]"</Description>
+      <LastState Value="0" RealAddress="7FF618EA97EC"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A97EC</Address>
     </CheatEntry>
     <CheatEntry>
-      <ID>103</ID>
-      <Description>"No description"</Description>
-      <ShowAsHex>1</ShowAsHex>
-      <VariableType>Array of byte</VariableType>
-      <ByteLength>8</ByteLength>
-      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+141E608</Address>
+      <ID>106</ID>
+      <Description>"bgm continue [0: reset, 2: BGM not change]"</Description>
+      <LastState Value="0" RealAddress="7FF618E28678"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1228678</Address>
     </CheatEntry>
     <CheatEntry>
-      <ID>104</ID>
-      <Description>"No description"</Description>
-      <ShowAsHex>1</ShowAsHex>
-      <VariableType>Array of byte</VariableType>
-      <ByteLength>8</ByteLength>
-      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+143A298</Address>
+      <ID>328</ID>
+      <Description>"walkman stuff"</Description>
+      <LastState Value="0" RealAddress="7FF618E2867C"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+122867C</Address>
     </CheatEntry>
     <CheatEntry>
-      <ID>105</ID>
-      <Description>"No description"</Description>
+      <ID>318</ID>
+      <Description>"main mission number (mission selector music)"</Description>
+      <LastState Value="34" RealAddress="7FF618D47878"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1147878</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>320</ID>
+      <Description>"WALKMAN music ID"</Description>
+      <LastState Value="1" RealAddress="7FF618EAB66C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12AB66C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>324</ID>
+      <Description>"WALKMAN play status [10: next, 11: start play, 14, stop]"</Description>
+      <LastState Value="0" RealAddress="7FF618EAB6B0"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12AB6B0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>325</ID>
+      <Description>"MUSIC header"</Description>
+      <LastState RealAddress="7FF618E28618"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>String</VariableType>
+      <Length>50</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1228618</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>326</ID>
+      <Description>"slot now"</Description>
+      <LastState Value="0" RealAddress="7FF618E28610"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1228610</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>327</ID>
+      <Description>"current"</Description>
+      <LastState Value="0000000000000000" RealAddress="7FF618E28648"/>
       <ShowAsHex>1</ShowAsHex>
-      <VariableType>Array of byte</VariableType>
-      <ByteLength>8</ByteLength>
-      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+11F3F38</Address>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>8 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1228648</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>329</ID>
+      <Description>"No description"</Description>
+      <LastState Value="0" RealAddress="7FF618EAB578"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12AB578</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>330</ID>
+      <Description>"walkman init stuff?"</Description>
+      <LastState Value="24" RealAddress="7FF618EAB564"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12AB564</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>331</ID>
+      <Description>"002B7E4B00006DFE"</Description>
+      <LastState Value="0000000000000000" RealAddress="7FF619200144"/>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>8 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1600144</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>333</ID>
+      <Description>"FFFFFFFF"</Description>
+      <LastState Value="00000000" RealAddress="7FF61920014C"/>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+160014C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>334</ID>
+      <Description>"00006DFE"</Description>
+      <LastState Value="00000000" RealAddress="7FF619200158"/>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1600158</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>335</ID>
+      <Description>"No description"</Description>
+      <LastState Value="45" RealAddress="7FF618EAB77C"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>7FF618EAB77C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>336</ID>
+      <Description>"No description"</Description>
+      <LastState Value="46" RealAddress="7FF618EAB780"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>7FF618EAB780</Address>
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols>
@@ -725,232 +342,13 @@
       <Address>011D8D65</Address>
     </SymbolEntry>
   </UserdefinedSymbols>
-  <LuaScript>local MODULE = "METAL GEAR SOLID PEACE WALKER.exe"
+  <LuaScript>local idx = 0
 
--- ========== Config ==========
-local outbox_slot = 3 -- How many box will create
-local SENDER_NAME = "MR_BEACON00" -- Your name here
-local TARGET_NAME = "- FREE -" -- Target name
-
---[[
-    46273 Happy Birthday
-    46275 Don't Worry
-    46276 Oops
-    46278 Let's Play
-    46279 GoGoGo
-    46280 Special Day
-    46283 Remember Me
-    46286 The Flower
-]]
-local MUSIC_ID    = 46283
-
--- raw Id, 0 means FREE
-local targetId1   = 0
-
--- always 0xFEE6E22E if target is player?
--- 0 means FREE
-local targetId2   = 0
-
-
--- ========== Slot config ==========
-local SLOT_TEMPLATES = {
-    [1] = {
-        {type = 1, id = 246, count = 1}, -- Fulton Sleep Gas Mine Rank 5 x1
-        {type = 1, id = 207, count = 4}, -- Sleep Gas Grenade Rank 1 x4
-        {type = 0, id = 244, count = 4}, -- Future Curry Rank 5 x4
-        {type = 1, id = 231, count = 4}, -- Anti-tank Mine Rank 1 x4
-        {type = 0, id = 269, count = 1}, -- Ballistic Shield (Red) Rank 1 x1
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-    },
-    [2] = {
-        {type = 1, id = 246, count = 1}, -- Fulton Sleep Gas Mine Rank 5 x1
-        {type = 1, id = 207, count = 4}, -- Sleep Gas Grenade Rank 1 x4
-        {type = 0, id = 244, count = 4}, -- Future Curry Rank 5 x4
-        {type = 1, id = 231, count = 4}, -- Anti-tank Mine Rank 1 x4
-        {type = 0, id = 328, count = 5}, -- Stealth Mat Rank 1 x5
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-    },
-    [3] = {
-        {type = 1, id = 246, count = 1}, -- Fulton Sleep Gas Mine Rank 5 x1
-        {type = 1, id = 207, count = 4}, -- Sleep Gas Grenade Rank 1 x4
-        {type = 0, id = 244, count = 4}, -- Future Curry Rank 5 x4
-        {type = 1, id = 231, count = 4},  -- Anti-tank Mine Rank 1 x4
-        {type = 1, id = 199, count = 10}, -- Smoke Grenade (Red) Rank 1 x10
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-    },
-    [4] = {
-        -- not yet
-        {type = 1, id = 246, count = 4},
-        {type = 1, id = 246, count = 4},
-        {type = 0, id = 244, count = 4},
-        {type = 0, id = 244, count = 4},
-        {type = 0, id = 269, count = 1},
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-        {type = 0, id = 0,   count = 0},
-    },
-}
-
--- ========== 每个栏的大小（字节）==========
-local SLOT_STRIDE = 208
-
--- ========== 栏1 的基址 ==========
-local baseAddr = getAddress('"' .. MODULE .. '"+1108218')
-if not baseAddr then
-    print("get base failed")
-    return
+for i = 0, 25 do
+local offset = idx * 4
+writeInteger(getAddress('"METAL GEAR SOLID PEACE WALKER.exe"+12AB568') + offset, i)
+idx = idx + 1
 end
-
--- ========== 相对栏1 的字段偏移 ==========
-local OFF = {
-    TIMESTAMP   = 0x00,
-    MODE        = 0x08,
-    YEAR        = 0x0C,
-    MUSIC       = 0x10,
-    CONTENTS    = 0x14,
-    SENDER_ID   = 0x8C,
-    SENDER_NAME = 0x9C,
-    TARGET_ID   = 0xAC,
-    TARGET_NAME = 0xBC,
-}
-
--- ========== 其他基址 ==========
-local addr_RemainingWeapons_base = getAddress('"' .. MODULE .. '"+114E35C')
-local addr_RemainingItems_base   = getAddress('"' .. MODULE .. '"+11508E0')
-local getSenderID                = getAddress('"' .. MODULE .. '"+1125FC0')
-
-if not addr_RemainingWeapons_base or not addr_RemainingItems_base or not getSenderID then
-    print("get remaining base failed")
-    return
-end
-
--- ========== 参数校验 ==========
-local MAX_SLOT = #SLOT_TEMPLATES   -- 自动取模板数量，目前是 4
-if outbox_slot &lt; 1 or outbox_slot &gt; MAX_SLOT then
-    print(string.format("outbox_slot must be 1~%d", MAX_SLOT))
-    return
-end
-
--- ========== 检查所有目标栏的 timestamp 是否为空 ==========
-for i = 1, outbox_slot do
-    local slotBase = baseAddr + (i - 1) * SLOT_STRIDE
-    local ts = readQword(slotBase + OFF.TIMESTAMP)
-    if ts == nil then
-        print(string.format("Get timestamp failed for slot %d", i))
-        return
-    end
-    if ts ~= 0 then
-        print(string.format("Outbox %d already exist", i))
-        return
-    end
-end
-
--- ========== 工具函数 ==========
-local function getCountAddr(t, id)
-    if t == 0 then
-        return addr_RemainingItems_base   + id * 24
-    else
-        return addr_RemainingWeapons_base + id * 28
-    end
-end
-
--- ========== 库存检查：累加所有目标栏的需求 ==========
-local totalNeed = {}
-for i = 1, outbox_slot do
-    for _, data in ipairs(SLOT_TEMPLATES[i]) do
-        if data.id ~= 0 and data.count &gt; 0 then
-            local key = data.type .. "_" .. data.id
-            if not totalNeed[key] then
-                totalNeed[key] = {type = data.type, id = data.id, total = 0}
-            end
-            totalNeed[key].total = totalNeed[key].total + data.count
-        end
-    end
-end
-
-for _, need in pairs(totalNeed) do
-    local countAddr = getCountAddr(need.type, need.id)
-    local remaining = readInteger(countAddr)
-    if remaining == nil then
-        print(string.format("Get storage failed: type=%d, id=%d", need.type, need.id))
-        return
-    end
-    if remaining &lt; need.total then
-        print(string.format("Storage not enough: type=%d, id=%d, Required=%d, Now=%d",
-            need.type, need.id, need.total, remaining))
-        return
-    end
-end
-
--- ========== 准备写入 ==========
-local webkitTimestamp = os.time() * 1000000 + 11644473600000000
-local t = os.date("*t")
-
--- 只读一次发送者 ID
-local myId1 = readInteger(getSenderID)     or 0
-local myId2 = readInteger(getSenderID + 4) or 0
-
--- ========== 逐栏写入 ==========
-for i = 1, outbox_slot do
-    local slotBase = baseAddr + (i - 1) * SLOT_STRIDE
-
-    -- 头部信息
-    writeQword  (slotBase + OFF.TIMESTAMP, webkitTimestamp)
-    writeInteger(slotBase + OFF.MODE,      8)
-
-    writeSmallInteger(slotBase + OFF.YEAR,     t.year)
-    writeByte        (slotBase + OFF.YEAR + 2, t.month)
-    writeByte        (slotBase + OFF.YEAR + 3, t.day)
-
-    -- 音乐 ID
-    writeInteger(slotBase + OFF.MUSIC, MUSIC_ID)
-
-    -- 目标信息
-    writeInteger(slotBase + OFF.TARGET_ID,     targetId1)
-    writeInteger(slotBase + OFF.TARGET_ID + 4, targetId2)
-    writeString (slotBase + OFF.TARGET_NAME, TARGET_NAME)
-
-    -- 发送者信息
-    writeInteger(slotBase + OFF.SENDER_ID,     myId1)
-    writeInteger(slotBase + OFF.SENDER_ID + 4, myId2)
-    writeString (slotBase + OFF.SENDER_NAME, SENDER_NAME)
-
-    -- 内容栏
-    local contentsAddr = slotBase + OFF.CONTENTS
-    for j, data in ipairs(SLOT_TEMPLATES[i]) do
-        local addr = contentsAddr + (j - 1) * 0xC
-        writeInteger(addr,     data.type)
-        writeInteger(addr + 4, data.id)
-        writeInteger(addr + 8, data.count)
-    end
-
-    -- print(string.format("Outbox %d written", i))
-end
-
--- ========== 扣除库存（用累加后的总需求）==========
-for _, need in pairs(totalNeed) do
-    local countAddr = getCountAddr(need.type, need.id)
-    local remaining = readInteger(countAddr)
-    if remaining then
-        writeInteger(countAddr, remaining - need.total)
-    end
-end
-
--- print("Done")
 </LuaScript>
   <DisassemblerComments>
     <DisassemblerComment>
