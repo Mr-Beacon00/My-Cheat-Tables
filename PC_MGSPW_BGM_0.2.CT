@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>319</ID>
+      <Description>"loaded bgm slot"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>284</ID>
+          <Description>"slot 1 name"</Description>
+          <LastState RealAddress="7FF7EE619700"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>50</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A9700</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>303</ID>
+          <Description>"slot 1 address"</Description>
+          <LastState Value="00000207E1D52310" RealAddress="7FF7EE619728"/>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>8 Bytes</VariableType>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A9728</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>302</ID>
+          <Description>"slot 2 name"</Description>
+          <LastState RealAddress="7FF7EE619738"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>50</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A9738</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>301</ID>
+          <Description>"slot 2 address"</Description>
+          <LastState Value="00000207E1E69B30" RealAddress="7FF7EE619760"/>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>8 Bytes</VariableType>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A9760</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>304</ID>
+          <Description>"slot 3 name"</Description>
+          <LastState RealAddress="7FF7EE619770"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>50</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A9770</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>305</ID>
+          <Description>"slot 3 address"</Description>
+          <LastState Value="0000000000000000" RealAddress="7FF7EE619798"/>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>8 Bytes</VariableType>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A9798</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>306</ID>
+          <Description>"slot 4 name"</Description>
+          <LastState RealAddress="7FF7EE6197A8"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>50</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A97a8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>307</ID>
+          <Description>"slot 4 address"</Description>
+          <LastState Value="0000000000000000" RealAddress="7FF7EE6197D0"/>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>8 Bytes</VariableType>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A97d0</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>300</ID>
+      <Description>"bgm slot choose [0: no music]"</Description>
+      <LastState Value="0" RealAddress="7FF7EE6197E0"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A97E0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>102</ID>
+      <Description>"bgm set [1: start play, 2: disable until reload]"</Description>
+      <LastState Value="0" RealAddress="7FF7EE6197EC"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12A97EC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>106</ID>
+      <Description>"bgm continue [0: reset, 2: BGM not change]"</Description>
+      <LastState Value="0" RealAddress="7FF7EE598678"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1228678</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>318</ID>
+      <Description>"main mission number (mission selector music)"</Description>
+      <LastState Value="1" RealAddress="7FF7EE4B7878"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1147878</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>320</ID>
+      <Description>"WALKMAN music ID"</Description>
+      <LastState Value="16" RealAddress="7FF7EE61B66C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12AB66C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>324</ID>
+      <Description>"WALKMAN play status [10: next, 11: start play, 14, stop]"</Description>
+      <LastState Value="0" RealAddress="7FF7EE61B6B0"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+12AB6B0</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols>
+    <SymbolEntry>
+      <Name>_InfiniteAmmo</Name>
+      <Address>7FF76B1B07B3</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>_OneHitKills</Name>
+      <Address>7FF76B293774</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>_Teleport</Name>
+      <Address>7FF76AEB1B03</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>_GetWaypointCoords</Name>
+      <Address>7FF76B374F53</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>memPointerTest</Name>
+      <Address>07550000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_I_RM</Name>
+      <Address>0147D8C3</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_I_GR</Name>
+      <Address>01481790</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>stealth</Name>
+      <Address>0129A566</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob1_VRT</Name>
+      <Address>0174CA00</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob2</Name>
+      <Address>016B8D65</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob1_1HK</Name>
+      <Address>015C0484</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob1_BZ</Name>
+      <Address>016F44CB</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob1_I_RM</Name>
+      <Address>0147D8C3</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob1_I_GR</Name>
+      <Address>01481790</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_ST1</Name>
+      <Address>015B950A</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_ST2</Name>
+      <Address>015B96EA</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_ST3</Name>
+      <Address>0165A6F5</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_VRT2</Name>
+      <Address>00B2CA06</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_fightstats</Name>
+      <Address>01B6C9F0</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>iKills</Name>
+      <Address>1AE00050</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>iCombo</Name>
+      <Address>1AE00054</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>iZandatsu</Name>
+      <Address>1AE00058</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_1HK</Name>
+      <Address>01720484</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_BZ</Name>
+      <Address>018544CB</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_NoDamageStat</Name>
+      <Address>0126CA41</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob1_H</Name>
+      <Address>011D8D59</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob2_H</Name>
+      <Address>011D8D65</Address>
+    </SymbolEntry>
+  </UserdefinedSymbols>
+  <DisassemblerComments>
+    <DisassemblerComment>
+      <Address>"METAL GEAR RISING REVENGEANCE.exe"+653C20</Address>
+      <Comment>(0)
+</Comment>
+    </DisassemblerComment>
+  </DisassemblerComments>
+</CheatTable>

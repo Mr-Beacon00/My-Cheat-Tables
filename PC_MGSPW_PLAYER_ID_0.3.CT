@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Heroes num"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+110CE08</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Comrades num"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+111BEE8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Player 1 ID"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+150E054</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>9</ID>
+          <Description>"Player 1 Name"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>15</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+150E05C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Player 2 ID"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+150EBe8</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description>"Player 2 Name"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>15</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+150EBF0</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"Player 3 ID"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+150F77C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>6</ID>
+          <Description>"Player 3 Name"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>15</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+150F784</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"Player 4 ID"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1510310</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"Player 4 Name"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>15</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>"METAL GEAR SOLID PEACE WALKER.exe"+1510318</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols>
+    <SymbolEntry>
+      <Name>_InfiniteAmmo</Name>
+      <Address>7FF76B1B07B3</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>_OneHitKills</Name>
+      <Address>7FF76B293774</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>_Teleport</Name>
+      <Address>7FF76AEB1B03</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>_GetWaypointCoords</Name>
+      <Address>7FF76B374F53</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>memPointerTest</Name>
+      <Address>07550000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_I_RM</Name>
+      <Address>0147D8C3</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_I_GR</Name>
+      <Address>01481790</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>stealth</Name>
+      <Address>0129A566</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob1_VRT</Name>
+      <Address>0174CA00</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob2</Name>
+      <Address>016B8D65</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob1_1HK</Name>
+      <Address>015C0484</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob1_BZ</Name>
+      <Address>016F44CB</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob1_I_RM</Name>
+      <Address>0147D8C3</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob1_I_GR</Name>
+      <Address>01481790</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_ST1</Name>
+      <Address>015B950A</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_ST2</Name>
+      <Address>015B96EA</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_ST3</Name>
+      <Address>0165A6F5</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_VRT2</Name>
+      <Address>00B2CA06</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_fightstats</Name>
+      <Address>01B6C9F0</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>iKills</Name>
+      <Address>1AE00050</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>iCombo</Name>
+      <Address>1AE00054</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>iZandatsu</Name>
+      <Address>1AE00058</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_1HK</Name>
+      <Address>01720484</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_BZ</Name>
+      <Address>018544CB</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob_NoDamageStat</Name>
+      <Address>0126CA41</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob1_H</Name>
+      <Address>011D8D59</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>aob2_H</Name>
+      <Address>011D8D65</Address>
+    </SymbolEntry>
+  </UserdefinedSymbols>
+  <LuaScript>local MODULE = "METAL GEAR SOLID PEACE WALKER.exe"
+local MODE = 1   -- 1 = comrade, 2 = heroes, 3 = player
+
+-- ========== 通用工具函数 ==========
+local function safeGetAddress(expr)
+    local a = getAddress(expr)
+    if not a then
+        print("getAddress failed: " .. expr)
+    end
+    return a
+end
+
+local function printPlayer(index, idAddr, nameAddr)
+    if not idAddr or not nameAddr then return end
+
+    local rawId = readInteger(idAddr)
+    if rawId == nil or rawId == 0 then return end
+
+    local SteamID3  = rawId ~ 0xB739CF89
+    local SteamID64 = SteamID3 + 76561197960265728
+
+    local name = readString(nameAddr) or "&lt;no name&gt;"
+
+    print(string.format("[%d] %s", index, name))
+    print("https://steamcommunity.com/profiles/" .. tostring(SteamID64))
+end
+
+-- ===9iomk ,======= MODE 1 / 2：动态列表 ==========
+local function handleListMode(baseExpr)
+    local base = safeGetAddress(baseExpr)
+    if not base then return end
+
+    local addr_NUMBER = base
+    local addr_NAME   = base + 8
+    local addr_ID     = base + 24
+
+    local playerNumber = readInteger(addr_NUMBER)
+    if playerNumber == nil then
+        print("read player number failed")
+        return
+    end
+    if playerNumber == 0 then
+        print("no players")
+        return
+    end
+
+    local step = 272
+    for i = 0, playerNumber - 1 do
+        local offset = i * step
+        printPlayer(i + 1, addr_ID + offset, addr_NAME + offset)
+    end
+end
+
+-- ========== MODE 3：固定 4 个玩家 ==========
+local function handleFixedMode()
+    -- 用表驱动，避免四段重复代码
+    local players = {
+        {id = '"' .. MODULE .. '"+150E054', name = '"' .. MODULE .. '"+150E05C'},
+        {id = '"' .. MODULE .. '"+150EBE8', name = '"' .. MODULE .. '"+150EBF0'},
+        {id = '"' .. MODULE .. '"+150F77C', name = '"' .. MODULE .. '"+150F784'},
+        {id = '"' .. MODULE .. '"+1510310', name = '"' .. MODULE .. '"+1510318'},
+    }
+
+    for i, p in ipairs(players) do
+        local idAddr   = safeGetAddress(p.id)
+        local nameAddr = safeGetAddress(p.name)
+        printPlayer(i, idAddr, nameAddr)
+    end
+end
+
+-- ========== 分发 ==========
+if MODE == 1 then
+    handleListMode('"' .. MODULE .. '"+111BEE8')
+elseif MODE == 2 then
+    handleListMode('"' .. MODULE .. '"+110CE08')
+elseif MODE == 3 then
+    handleFixedMode()
+else
+    print("unknown MODE: " .. tostring(MODE))
+end
+</LuaScript>
+  <DisassemblerComments>
+    <DisassemblerComment>
+      <Address>"METAL GEAR RISING REVENGEANCE.exe"+653C20</Address>
+      <Comment>(0)
+</Comment>
+    </DisassemblerComment>
+  </DisassemblerComments>
+</CheatTable>
